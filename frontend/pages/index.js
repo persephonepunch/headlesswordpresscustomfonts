@@ -61,7 +61,7 @@ class Index extends Component {
             <Layout>
                 <Menu menu={this.props.headerMenu} />
                 <img
-                    src="/static/images/wordpress-plus-react-header.png"
+                    src="/static/images/barometer_animation_170317.gif"
                     width="815"
                     style={headerImageStyle}
                 />

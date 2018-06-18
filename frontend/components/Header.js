@@ -22,8 +22,9 @@ class Header extends Component {
                     />
                     <meta charSet="utf-8" />
                     <title>
-                        WordPress + React Starter Kit Frontend by Postlight
+                        headless ysl
                     </title>
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.6/css/uikit.min.css" />
                 </Head>
             </div>
         );
